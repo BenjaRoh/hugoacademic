@@ -21,3 +21,5 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.99.0")
+
+blogdown::serve_site()
