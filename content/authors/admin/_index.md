@@ -2,8 +2,8 @@
 bio: Howdy!
 highlight_name: true
 organizations:
-- name: Department of Sociology, University of Chicago
-role: PhD Candidate
+- name: Department of Sociology, University of Mannheim
+role: Postdoctoral Researcher
 superuser: true
 title: Benjamin Rohr
 

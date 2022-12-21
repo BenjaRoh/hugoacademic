@@ -18,5 +18,5 @@ design:
 
 ---
 
-You can contact me at brohr@uchicago.edu.
+You can contact me at rohr@uni-mannheim.de.
 
