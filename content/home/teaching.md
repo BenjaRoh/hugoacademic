@@ -17,7 +17,9 @@ design:
   columns: '2'
 ---
 
-**Social Networks and Politics**, University of Mannheim, Fall 2022. {{< staticref "static/Syllabus_2022-12-21.pdf" "newtab" >}}Syllabus{{< /staticref >}}
+**Political Networks**, University of Mannheim, Summer 2023. {{< staticref "static/PN Syllabus.pdf" "newtab" >}}Syllabus{{< /staticref >}}
+
+**Social Networks and Politics**, University of Mannheim, Fall 2022, Summer 2023. {{< staticref "static/SNAP Syllabus.pdf" "newtab" >}}Syllabus{{< /staticref >}}
 
 **B.A. Thesis Colloquium**, University of Mannheim, Fall 2022
 
