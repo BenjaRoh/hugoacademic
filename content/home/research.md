@@ -50,6 +50,8 @@ Coming soon.
 
 In a collaborative project with William McAllister (Columbia University), I study the career paths that led into elite administrative positions in the American state between 1850 and 2000.
 
+<br/>
+
 **Networks and Elite Cohesion in the American Administrative State, 1850-2000**. Manuscript in preparation.
 
 {{< spoiler text="Abstract" >}}
@@ -93,6 +95,8 @@ Together with John Levi Martin (University of Chicago), Farah Aly (University of
 The Florentine *Consulte e Pratiche* is the oldest recorded series of speech-by-speech policy discussion by political elites in European history, over one hundred and fifty years in length. This article is the first of an extended two-article sequence on political discussion in the *Consulte e Pratiche*, during the 1376–1378 period of the War of Eight Saints, which led up to the famous Ciompi Revolt. Our interest is in discovering both the semantic- network (article 1) and the factional-network (article 2) mechanics of this unexpected spillover from foreign-policy conflict into domestic revolt. Our central finding at the semantic level, in this first article, is that the spillover from war to revolution was mediated through the ceremonial and political-economy sides of religion. The methodology in this first article is to uncover the evolving narrative-network structures exhibited in Florentine political discussion – namely, changing inter-correlations among keywords about topics, through chapters and subplots. "Narrative-network analysis" for us means (a) uncovering changing topological portraits of how subplots interlink through time, and (b) discovering interlocking linguistic "hinges" through which new historical trajectories of subplot combinations become defined. In our case, the linguistic hinges between foreign policy and domestic revolt were rooted in religion. How the evolving issues and topics discussed in this article express themselves in domestic (and eventually violent) political conflict between the anti-war Parte Guelfa faction and the pro-war Civic ‘faction’ will be the subject of the second of this complementary pair of articles.
 {{< /spoiler >}}
 
+<br/>
+
 [**Political Conflict and Revolt in Generational Time: The Florentine Consulte e Pratiche and Ciompi Revolt, 1376-1378** (with Jonathan Schoots, Katalin Prajda, and John F. Padgett). 2020. *Poetics* 78.](https://doi.org/10.1016/j.poetic.2019.101386)
 
 {{< spoiler text="Abstract" >}}
@@ -109,6 +113,8 @@ We analyze public-policy speeches in the Florentine *Consulte e Pratiche*, immed
 {{< spoiler text="Abstract" >}}
 It is common for social scientists to use formal quantitative methods to compare ecological units such as towns, schools, or nations. In many cases, the size of these units in terms of the number of individuals subsumed in each differs substantially. When the variables in question are counts, there is generally some attempt to neutralize differences in size by turning variables into ratios or by controlling for size. But methods that are appropriate in many demographic and epidemiological contexts have been used in settings where they may not be justified and may well introduce spurious relations between variables. We suggest local regressions as a simple diagnostic and generalized additive models as a superior modeling strategy, with double-residualized regressions as a backup for certain cases.
 {{< /spoiler >}}
+
+<br/>
 
 **Economic Networks and Political Culture** (with Maurice Bokanga and John Levi Martin). Forthcoming in *Handbook of Culture and Social Network Analysis*. 
 
