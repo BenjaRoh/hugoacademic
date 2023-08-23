@@ -68,11 +68,11 @@ Coming soon.
 
 <br/>
 
-## Political Careers in China
+## Organizational Strategies and Political Careers in China
 
 **Vacancy Chains as Strategy: Inter-Administration Mobility of Political Elites in Reform China** (with Shilin Jia). Manuscript under review. Preprint @ https://dx.doi.org/10.2139/ssrn.4219188.
 
-*Honorable Mention, Reinhard Bendix Student Paper Award from the 2023 ASA Comparative-Historical Sociology Section*
+*Honorable Mention, 2023 Reinhard Bendix Student Paper Award from the ASA Comparative-Historical Sociology Section*
 
    {{< spoiler text="Abstract" >}}
 Scholars of large bureaucracies, whether public or private, have long understood that getting a job involves both the person striving to be chosen as well as the organization making the choice. While extant work focuses on interindividual comparisons between job-seekers, we formulate a complementary account that views mobility from the perspective of the organization and directs attention to the organizational strategies behind personnel management. We apply this account to a study of the strategies governing career advancement in the Chinese party-state. Drawing on a novel dataset of more than 2,500 inter-organizational transfers derived from the CVs of more than 5,000 political elites, we find that elites whose transfers are embedded in long vacancy chains have more successful careers than those whose transfers occur in isolation. This career boost happens after their involvement in vacancy chains and is stronger for younger elites than for older ones. These findings are consistent with a strategy of organizational sponsorship whereby the CCP strategically moves promising young officials through positions to groom them for future leadership roles. Sponsorship becomes more important over time and can be seen as the CCP’s attempt to counter the increasing decentralization of the Chinese state during the reform period.
@@ -106,7 +106,7 @@ We analyze public-policy speeches in the Florentine *Consulte e Pratiche*, immed
 <br/>
 
 
-## Miscellaneous
+## Other Work
 
 [**How (Not) to Control for Population Size in Ecological Analyses** (with John Levi Martin). 2021. *Sociological Methods and Research*.](https://doi.org/10.1177/0049124120986188)
 
