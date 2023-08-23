@@ -17,6 +17,8 @@ design:
   columns: '2'
 ---
 
+**Introduction to Political Sociology**, University of Mannheim, Fall 2023. 
+
 **Political Networks**, University of Mannheim, Summer 2023. {{< staticref "static/PN Syllabus.pdf" "newtab" >}}Syllabus{{< /staticref >}}
 
 **Social Networks and Politics**, University of Mannheim, Fall 2022, Summer 2023. {{< staticref "static/SNAP Syllabus.pdf" "newtab" >}}Syllabus{{< /staticref >}}

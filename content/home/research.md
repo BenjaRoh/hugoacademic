@@ -21,7 +21,7 @@ design:
 
 <br/>
 
-**Dissertation: Portraits of a Political World: The Structure of the First Party System in New York, 1777-1822**. You can download a copy [here](https://knowledge.uchicago.edu/record/4749).
+[**Dissertation: Portraits of a Political World: The Structure of the First Party System in New York, 1777-1822**.](https://knowledge.uchicago.edu/record/4749)
 
 {{< spoiler text="Abstract" >}}
 We tend to take for granted the existence and operation of electoral parties in modern democracies. But where did they come from? This dissertation is a study of party formation in the theoretically important case of the United States where parties emerged pretty much from scratch. Drawing on several novel datasets, I examine the emergence and structure of the first party system in the pivotal state of New York, focusing on the crucial years between the ratification of the U.S. constitution in 1788 and the election of 1800. I first show that the Federalists and Republicans in New York cannot be understood as the politicization of pre-existing social master categories like class or region. The product of divisions within the political elite, both parties looked very much alike in terms of the sociodemographic characteristics of their members. This opened up opportunities for skilled political elites to form new and complex webs of alliances. To understand these alliances, I turn to the social networks political elites were embedded in. Existing social ties pulled and pushed elites to one side or the other. But as social "bricoleurs," they also actively used them to form new networks of political support. Even though the structure of elite social networks goes a long way towards explaining the structure of the emerging party system, these networks do not fully explain it. Very early on, the political field in New York was so well-developed that it produced sophisticated political actors who were not tied down by their positions in social space. Their actions were underdetermined by the social, and there was room for an endogenous political process irreducible to pre-existing social structures. I first examine this process through an analysis of roll call voting in the state assembly. I demonstrate that parties in the sense of voting blocs formed at three moments in time and appeared most clearly around procedural issues that had to do with access to public office. I then provide a systematic analysis of office-holding to show that competition for control of the state, and the alliances it produced, was at the core of party formation. As political actors tried to build their careers in a rapidly changing institutional structure, they increasingly sorted themselves into two opposing camps that both contemporaries and historical social scientists have come to understand as the first political parties in American history. I end with a look at those who switched parties during their careers. The analysis of party switching highlights that ambitious political actors were able and willing to cut existing social relationships when this was required to advance politically. 
@@ -29,10 +29,10 @@ We tend to take for granted the existence and operation of electoral parties in 
 
 <br/>
 
-**The Formation of the First American Party System: The Case of New York** (with John Levi Martin). Manuscript in preparation.
+**The Structure of the First American Party System: The Case of New York** (with John Levi Martin). Manuscript in preparation.
 
 {{< spoiler text="Abstract" >}}
-A key component in the formation of the modern democratic state is the party system. This is especially true for democracies that consolidated before a civil service reform act, as bureaucracies were staffed not merely via executive selection of the capable, but also by legislative contests.  In the United States, most of these offices were at the state, not federal, level, and thus understanding the party system requires an examination of the several states.  Here we focus on New York, probably the state most advanced in its partisan organization, right after the founding of the revised federal government in 1789, and demonstrate that party organization was far more developed in directions consonant with a “modern” party system than previously understood, and that it led, as opposed to followed, partisan organization at the federal level, suggesting that party-organization should be understood not as “trickling down” from notables, but from the integration of mid-level political elites taking part in state expansion schemes.
+A key component in the formation of the modern democratic state is the party system, and yet theoretical understandings of the origins of such systems are still weak.  This seriously biases understanding of the American case of state formation, where parties played a major role in filling the offices that were created in the process of state expansion.  The origin of these parties has often been told only from the point of view of the national level, despite the fact that most government took place at the state level.  Using a new data set on both roll call votes and on characteristics of legislators, we examine the case of New York, probably the state most advanced in its partisan organization, right after the founding of the revised federal government in 1789 into the Jefferson administration.  We demonstrate, first, that party coherence was far more developed in directions consonant with a “modern” party system than previously understood; second, that it led, as opposed to followed, partisan organization at the federal level; and third, that the parties gelled not around class or regional issues, but the endogenous struggle to define the rules of the game and in particular those that regulated access to public office.
 {{< /spoiler >}}
 
 <br/>
@@ -46,21 +46,21 @@ Coming soon.
 <br/>
 
 
-## Political Careers in the U.S.
+## State Building and Political Careers in the U.S.
 
 In a collaborative project with William McAllister (Columbia University), I study the career paths that led into elite administrative positions in the American state between 1850 and 2000.
 
 <br/>
 
-**Networks and Elite Cohesion in the American Administrative State, 1850-2000**. Manuscript in preparation.
+**Elite Cohesion in the American Administrative State, 1898-1998**. Manuscript in preparation.
 
 {{< spoiler text="Abstract" >}}
-Since the postwar debates between pluralist and power elite theorists, social scientists have debated the degree of cohesion among elites in American society. Most of this work has focused on corporate elites and relationships formed through shared board membership. Much less is known about political elites and have almost no knowledge of how cohesion within that group has changed over time. Drawing on a novel dataset of the career histories of 2,402 political elites who were appointed to the highest administrative positions in the American state between 1850 and 1998, I examine the degree of elite cohesion produced by two types of relationships: those based on attending the same educational institutions and those based on working in the same agencies of the Federal government. I find strong evidence of increasing elite cohesion over time. Education-based cohesion increases especially during the three decades following WW2, while workplace-based cohesion increases during the first half of the 20th century and then remains steady after the Second World War. These findings have implications for our understanding of elite cohesion among elite administrators in the American Federal government.
+Social scientists have long been interested in the degree of cohesion among elites in American society. Most work has focused on corporate elites and cohesion derived from shared board membership. Much less is known about the people who occupy the highest positions in the American administrative state and we have almost no knowledge of how cohesion within this group has changed over time. Drawing on a novel dataset of the career histories of 2,221 administrative elites who were appointed between 1898 and 1998, I measure elite cohesion by whether elites attended the same educational institutions at the same time and whether they worked in the same agencies of the Federal government at the same time prior to their elite appointment. I find strong evidence of increasing elite cohesion over time. Education-based cohesion increases especially during the three decades following WW2, while workplace-based cohesion increases during the first half of the 20th century and then remains steady after the Second World War. As elites are appointed to different organizations within the American state, these connections provide the potential for mutual understanding and coordination and thus help integrate the American government. These findings have implications for our understanding of the American administrative state.
 {{< /spoiler >}}
 
 <br/>
 
-**The Boundaries of the American State: Transformations in the Recruitment Structure of Elite Administrative Positions, 1850-2000** (with William McAllister). Manuscript in preparation.
+**State-building and the Changing Structure of American Elite Recruitment, 1850-2000** (with William McAllister). Manuscript in preparation.
 
 {{< spoiler text="Abstract" >}}
 Coming soon. 
