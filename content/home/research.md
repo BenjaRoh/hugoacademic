@@ -17,7 +17,7 @@ design:
   columns: '2'
 ---
 
-## XX Party and State Formation in the U.S.
+## Party and State Formation in the U.S.
 
 <br/>
 
