@@ -29,7 +29,7 @@ We tend to take for granted the existence and operation of electoral parties in 
 
 <br/>
 
-**The Structure of the First American Party System: The Case of New York** (with John Levi Martin). Manuscript under review.
+**The Structure of the First American Party System: The Case of New York** (with John Levi Martin). Revise & Resubmit at *American Sociological Review*.
 
 {{< spoiler text="Abstract" >}}
 A key component in the formation of the modern democratic state is the party system.  Yet theoretical understandings of the origins of such systems remain weak.  Misunderstanding the role of parties seriously biases our understanding of the American case of state formation, where parties played a major role in filling the offices created in the process of state expansion.  The origin of these parties has often been told only from the point of view of the national level, even though most government took place at the state level.  Using a new data set on roll call votes and on characteristics of legislators, we examine the case of New York, probably the state most advanced in its partisan organization, right after the founding of the federal government in 1789 into the Jefferson administration.  We demonstrate, first, that party coherence was far more developed in directions consonant with a “modern” party system than previously understood; second, that it led, as opposed to followed, partisan organization at the federal level; and third, that the parties gelled not around class or regional issues, but the endogenous struggle to define the rules of the game and, in particular, those that regulated access to public office.
@@ -52,7 +52,7 @@ In a collaborative project with William McAllister (Columbia University), I stud
 
 <br/>
 
-**Elite Cohesion in the American Administrative State, 1898-1998**. Manuscript in preparation.
+**Elite Cohesion in the American Administrative State, 1898-1998**. Manuscript under review.
 
 {{< spoiler text="Abstract" >}}
 Social scientists have long been interested in the degree of cohesion among elites in American society. Most work has focused on corporate elites and cohesion derived from shared board membership. Much less is known about the people who occupy the highest positions in the American administrative state and we have almost no knowledge of how cohesion within this group has changed over time. Drawing on a novel dataset of the career histories of 2,221 administrative elites who were appointed between 1898 and 1998, I measure elite cohesion by whether elites attended the same educational institutions at the same time and whether they worked in the same agencies of the Federal government at the same time prior to their elite appointment. I find strong evidence of increasing elite cohesion over time. Education-based cohesion increases especially during the three decades following WW2, while workplace-based cohesion increases during the first half of the 20th century and then remains steady after the Second World War. As elites are appointed to different organizations within the American state, these connections provide the potential for mutual understanding and coordination and thus help integrate the American government. These findings have implications for our understanding of the American administrative state.
@@ -70,7 +70,7 @@ Coming soon.
 
 ## Organizational Strategies and Political Careers in China
 
-**Vacancy Chains as Strategy: Inter-Administration Mobility of Political Elites in Reform China** (with Shilin Jia). Manuscript under review. Preprint @ https://dx.doi.org/10.2139/ssrn.4219188.
+**Vacancy Chains as Strategy: Inter-Administration Mobility of Political Elites in Reform China** (with Shilin Jia). Reject & Resubmit at *American Sociological Review*. Preprint @ https://dx.doi.org/10.2139/ssrn.4219188.
 
 *Honorable Mention, 2023 Reinhard Bendix Student Paper Award from the ASA Comparative-Historical Sociology Section*
 
