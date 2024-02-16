@@ -17,11 +17,11 @@ design:
   columns: '2'
 ---
 
+**Political Networks**. University of Mannheim. Spring 2023, Spring 2024. {{< staticref "static/Syllabus_PN.pdf" "newtab" >}}Syllabus{{< /staticref >}}
+
+**Social Networks and Politics**. University of Mannheim. Fall 2022, Spring 2023, Spring 2024. {{< staticref "static/Syllabus_SNAP.pdf" "newtab" >}}Syllabus{{< /staticref >}}
+
 **Introduction to Political Sociology**. University of Mannheim. Fall 2023. {{< staticref "static/Syllabus_Intro PS.pdf" "newtab" >}}Syllabus{{< /staticref >}}
-
-**Political Networks**. University of Mannheim. Summer 2023. {{< staticref "static/Syllabus_PN.pdf" "newtab" >}}Syllabus{{< /staticref >}}
-
-**Social Networks and Politics**. University of Mannheim. Fall 2022, Spring 2023. {{< staticref "static/Syllabus_SNAP.pdf" "newtab" >}}Syllabus{{< /staticref >}}
 
 **B.A. Thesis Colloquium**. University of Mannheim. Fall 2022, Fall 2023
 

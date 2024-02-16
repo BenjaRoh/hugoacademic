@@ -17,7 +17,7 @@ design:
   columns: '2'
 ---
 
-## Party and State Formation in the U.S.
+## PARTY AND STATE FORMATION IN THE U.S.
 
 <br/>
 
@@ -40,13 +40,16 @@ A key component in the formation of the modern democratic state is the party sys
 **Party Formation in Multiple Networks: New York in the Early Republic** (with Marissa Combs). Manuscript in preparation.
 
 {{< spoiler text="Abstract" >}}
-Coming soon. 
+The study of political divisions—be those factions and parties, rebellions and civil wars, or social movements—is central to political and historical sociology. Understanding the nature of these divisions often requires that we explain which side of the conflict people are on. Historical network scholars made an important contribution when they showed that in some important cases individual attributes like class or ethnicity were insufficient predictors of allegiances. Instead, they proposed formal network analytic techniques to identify structural positions in networks that could be used to predict actions, including side-taking. This structuralist network approach, however, tends to break down when it comes to political elites. Political divisions among elites are largely endogenous to politics and, thus, cannot be reduced to social position. Political elites often do not, and cannot afford to, act in ways that could easily be predicted by their network position. They are constrained by and make use of the networks they find themselves in, but they also always work to change these networks and their position within them. In these cases, looking for convenient links between networks and sides will be misleading. Instead, we focus on the dynamics of side-taking. Following recent developments in social network theory, we look at the action that takes place in networks—at how people do the relational work of making, maintaining, using, and breaking ties to do politics. This requires attention to the cultural logics embedded in social relations. To illustrate this approach, we conduct a historical case study of politics in the early American republic, focusing on the life of John Williams. What makes Williams an excellent case is that in 1795 he switched from the Republican to the Federalist party. Using the act of switching parties and drawing on rich archival data on Williams’ personal correspondence as well as other historical documents, our analysis reveals three insights into the logic of political action. (1) Skilled actors are always working in multiple social networks simultaneously. In our case, where the Constitution had established a multilevel political structure, this involved the special case of multiple levels of government (local, state, federal). Because many elites held offices at multiple levels, repositioning oneself on one level affected the political networks on other levels. (2) Political action involved not only the making, but also the breaking of ties. It required elites to escape the “Sargasso Sea of social obligation and context” and to create room for action. Consequently, Williams’ switch coincided with a complete reorganization not only of his political but also his social networks. (3) By the end of the 1790s, partisanship had imposed itself as a new logic of action that both incorporated but also displaced older forms of deferential and clientelist politics. For Williams, who perhaps did not realize this shift, this meant defeat at the polls by his son-in-law, a relatively minor social and political figure.
 {{< /spoiler >}}
 
 <br/>
 
+**Patronage Politics in the Early American Republic: The Case of New York** . Manuscript in preparation.
 
-## State Building and Political Careers in the U.S.
+<br/>
+
+## STATE BUILDING AND POLITICAL CAREERS IN THE U.S.
 
 In a collaborative project with William McAllister (Columbia University), I study the career paths that led into elite administrative positions in the American state between 1850 and 2000.
 
@@ -68,7 +71,7 @@ Coming soon.
 
 <br/>
 
-## Organizational Strategies and Political Careers in China
+## ORGANIZATIONAL STRATEGIES AND POLITICAL CAREERS IN CHINA
 
 **Vacancy Chains as Strategy: Inter-Administration Mobility of Political Elites in Reform China** (with Shilin Jia). Reject & Resubmit at *American Sociological Review*. 
 
@@ -77,19 +80,19 @@ Coming soon.
 *Honorable Mention, 2023 Reinhard Bendix Student Paper Award from the ASA Comparative-Historical Sociology Section*
 
    {{< spoiler text="Abstract" >}}
-Scholars of large bureaucracies, whether public or private, have long understood that getting a job involves both the person striving to be chosen as well as the organization making the choice. While extant work focuses on interindividual comparisons between job-seekers, we formulate a complementary account that views mobility from the perspective of the organization and directs attention to the organizational strategies behind personnel management. We apply this account to a study of the strategies governing career advancement in the Chinese party-state. Drawing on a novel dataset of more than 2,500 inter-organizational transfers derived from the CVs of more than 5,000 political elites, we find that elites whose transfers are embedded in long vacancy chains have more successful careers than those whose transfers occur in isolation. This career boost happens after their involvement in vacancy chains and is stronger for younger elites than for older ones. These findings are consistent with a strategy of organizational sponsorship whereby the CCP strategically moves promising young officials through positions to groom them for future leadership roles. Sponsorship becomes more important over time and can be seen as the CCP’s attempt to counter the increasing decentralization of the Chinese state during the reform period.
+*Scholars of large bureaucracies, whether public or private, have long understood that getting a job involves both the person striving to be chosen as well as the organization making the choice. While extant work focuses on interindividual comparisons between job-seekers, we formulate a complementary account that views mobility from the perspective of the organization and directs attention to the organizational strategies behind personnel management. We apply this account to a study of the strategies governing career advancement in the Chinese party-state. Drawing on a novel dataset of more than 2,500 inter-organizational transfers derived from the CVs of more than 5,000 political elites, we find that elites whose transfers are embedded in long vacancy chains have more successful careers than those whose transfers occur in isolation. This career boost happens after their involvement in vacancy chains and is stronger for younger elites than for older ones. These findings are consistent with a strategy of organizational sponsorship whereby the CCP strategically moves promising young officials through positions to groom them for future leadership roles. Sponsorship becomes more important over time and can be seen as the CCP’s attempt to counter the increasing decentralization of the Chinese state during the reform period.*
 {{< /spoiler >}}
 
 <br/>
 
 
-## Political Discourse in the Weimar Republic
-Together with John Levi Martin (University of Chicago), Farah Aly (University of Mannheim), and the University of Mannheim Library I am currently in the process of digitizing the protocols of the German *Reichstag* during the Weimarer Republic. The goal is to use these data to study parliamentary discourse in the Weimar Republic using NLP tools.
+## POLITICAL DISCOURSE IN THE WEIMAR REPUBLIC
+Together with John Levi Martin (University of Chicago), Farah Aly (University of Mannheim), and the University of Mannheim Library I have just finished digitizing the protocols of the German *Reichstag* during the Weimarer Republic. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic.
 
 <br/>
 
 
-## Political Discourse in Renaissance Florence
+## POLITICAL DISCOURSE IN RENAISSANCE FLORENCE
 
 [**Political Discussion and Debate in Narrative Time: The Florentine Consulte e Pratiche, 1376-1378** (with John F. Padgett, Katalin Prajda, and Jonathan Schoots). 2020. *Poetics* 78.](https://doi.org/10.1016/j.poetic.2019.101377)
 
@@ -108,7 +111,7 @@ We analyze public-policy speeches in the Florentine *Consulte e Pratiche*, immed
 <br/>
 
 
-## Other Work
+## OTHER WORK
 
 [**How (Not) to Control for Population Size in Ecological Analyses** (with John Levi Martin). 2021. *Sociological Methods and Research*.](https://doi.org/10.1177/0049124120986188)
 
