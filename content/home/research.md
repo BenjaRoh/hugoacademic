@@ -21,7 +21,8 @@ design:
 
 <br/>
 
-[**Dissertation: Portraits of a Political World: The Structure of the First Party System in New York, 1777-1822**.](https://knowledge.uchicago.edu/record/4749)
+[**Dissertation: Portraits of a Political World: The Structure of the First Party System in New York, 1777-1822**.](https://knowledge.uchicago.edu/record/4749) 
+
 
 {{< spoiler text="Abstract" >}}
 We tend to take for granted the existence and operation of electoral parties in modern democracies. But where did they come from? This dissertation is a study of party formation in the theoretically important case of the United States where parties emerged pretty much from scratch. Drawing on several novel datasets, I examine the emergence and structure of the first party system in the pivotal state of New York, focusing on the crucial years between the ratification of the U.S. constitution in 1788 and the election of 1800. I first show that the Federalists and Republicans in New York cannot be understood as the politicization of pre-existing social master categories like class or region. The product of divisions within the political elite, both parties looked very much alike in terms of the sociodemographic characteristics of their members. This opened up opportunities for skilled political elites to form new and complex webs of alliances. To understand these alliances, I turn to the social networks political elites were embedded in. Existing social ties pulled and pushed elites to one side or the other. But as social "bricoleurs," they also actively used them to form new networks of political support. Even though the structure of elite social networks goes a long way towards explaining the structure of the emerging party system, these networks do not fully explain it. Very early on, the political field in New York was so well-developed that it produced sophisticated political actors who were not tied down by their positions in social space. Their actions were underdetermined by the social, and there was room for an endogenous political process irreducible to pre-existing social structures. I first examine this process through an analysis of roll call voting in the state assembly. I demonstrate that parties in the sense of voting blocs formed at three moments in time and appeared most clearly around procedural issues that had to do with access to public office. I then provide a systematic analysis of office-holding to show that competition for control of the state, and the alliances it produced, was at the core of party formation. As political actors tried to build their careers in a rapidly changing institutional structure, they increasingly sorted themselves into two opposing camps that both contemporaries and historical social scientists have come to understand as the first political parties in American history. I end with a look at those who switched parties during their careers. The analysis of party switching highlights that ambitious political actors were able and willing to cut existing social relationships when this was required to advance politically. 
@@ -49,6 +50,8 @@ The study of political divisions—be those factions and parties, rebellions and
 
 <br/>
 
+***
+
 ## STATE BUILDING AND POLITICAL CAREERS IN THE U.S.
 
 In a collaborative project with William McAllister (Columbia University), I study the career paths that led into elite administrative positions in the American state between 1850 and 2000.
@@ -71,6 +74,8 @@ Coming soon.
 
 <br/>
 
+***
+
 ## ORGANIZATIONAL STRATEGIES AND POLITICAL CAREERS IN CHINA
 
 **Vacancy Chains as Strategy: Inter-Administration Mobility of Political Elites in Reform China** (with Shilin Jia). Reject & Resubmit at *American Sociological Review*. 
@@ -86,11 +91,14 @@ Coming soon.
 <br/>
 
 
+***
+
 ## POLITICAL DISCOURSE IN THE WEIMAR REPUBLIC
 Together with John Levi Martin (University of Chicago), Farah Aly (University of Mannheim), and the University of Mannheim Library I have just finished digitizing the protocols of the German *Reichstag* during the Weimarer Republic. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic.
 
 <br/>
 
+***
 
 ## POLITICAL DISCOURSE IN RENAISSANCE FLORENCE
 
@@ -110,6 +118,7 @@ We analyze public-policy speeches in the Florentine *Consulte e Pratiche*, immed
 
 <br/>
 
+***
 
 ## OTHER WORK
 
