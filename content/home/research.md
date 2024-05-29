@@ -10,14 +10,34 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: RESEARCH
-subtitle:
+title: RESEARCH <br/> ![](static/meatgrinder3.png)
+subtitle: 
 
 design:
   columns: '2'
 ---
 
 ## PARTY AND STATE FORMATION IN THE U.S.
+
+I use the case of New York State to examine the interplay of state and party formation in the early American republic. 
+
+<br/>
+
+**The Structure of the First American Party System: The Case of New York** (with John Levi Martin). Revise & Resubmit at *American Sociological Review*.
+
+{{< spoiler text="Abstract" >}}
+A key component in the formation of the modern democratic state is the party system.  Yet theoretical understandings of the origins of such systems remain weak.  Misunderstanding the role of parties seriously biases our understanding of the American case of state formation, where parties played a major role in filling the offices created in the process of state expansion.  The origin of these parties has often been told only from the point of view of the national level, even though most government took place at the state level.  Using a new data set on roll call votes and on characteristics of legislators, we examine the case of New York, probably the state most advanced in its partisan organization, right after the founding of the federal government in 1789 into the Jefferson administration.  We demonstrate, first, that party coherence was far more developed in directions consonant with a “modern” party system than previously understood; second, that it led, as opposed to followed, partisan organization at the federal level; and third, that the parties gelled not around class or regional issues, but the endogenous struggle to define the rules of the game and, in particular, those that regulated access to public office.
+{{< /spoiler >}}
+
+<br/>
+
+
+**Patronage Politics in the Early American Republic: The Case of New York**. Manuscript in preparation.
+
+<br/>
+
+
+**Party Formation in Multiple Networks: New York in the Early Republic** (with Marissa Combs). Manuscript in preparation.
 
 <br/>
 
@@ -30,25 +50,6 @@ We tend to take for granted the existence and operation of electoral parties in 
 
 <br/>
 
-**The Structure of the First American Party System: The Case of New York** (with John Levi Martin). Revise & Resubmit at *American Sociological Review*.
-
-{{< spoiler text="Abstract" >}}
-A key component in the formation of the modern democratic state is the party system.  Yet theoretical understandings of the origins of such systems remain weak.  Misunderstanding the role of parties seriously biases our understanding of the American case of state formation, where parties played a major role in filling the offices created in the process of state expansion.  The origin of these parties has often been told only from the point of view of the national level, even though most government took place at the state level.  Using a new data set on roll call votes and on characteristics of legislators, we examine the case of New York, probably the state most advanced in its partisan organization, right after the founding of the federal government in 1789 into the Jefferson administration.  We demonstrate, first, that party coherence was far more developed in directions consonant with a “modern” party system than previously understood; second, that it led, as opposed to followed, partisan organization at the federal level; and third, that the parties gelled not around class or regional issues, but the endogenous struggle to define the rules of the game and, in particular, those that regulated access to public office.
-{{< /spoiler >}}
-
-<br/>
-
-**Party Formation in Multiple Networks: New York in the Early Republic** (with Marissa Combs). Manuscript in preparation.
-
-{{< spoiler text="Abstract" >}}
-The study of political divisions—be those factions and parties, rebellions and civil wars, or social movements—is central to political and historical sociology. Understanding the nature of these divisions often requires that we explain which side of the conflict people are on. Historical network scholars made an important contribution when they showed that in some important cases individual attributes like class or ethnicity were insufficient predictors of allegiances. Instead, they proposed formal network analytic techniques to identify structural positions in networks that could be used to predict actions, including side-taking. This structuralist network approach, however, tends to break down when it comes to political elites. Political divisions among elites are largely endogenous to politics and, thus, cannot be reduced to social position. Political elites often do not, and cannot afford to, act in ways that could easily be predicted by their network position. They are constrained by and make use of the networks they find themselves in, but they also always work to change these networks and their position within them. In these cases, looking for convenient links between networks and sides will be misleading. Instead, we focus on the dynamics of side-taking. Following recent developments in social network theory, we look at the action that takes place in networks—at how people do the relational work of making, maintaining, using, and breaking ties to do politics. This requires attention to the cultural logics embedded in social relations. To illustrate this approach, we conduct a historical case study of politics in the early American republic, focusing on the life of John Williams. What makes Williams an excellent case is that in 1795 he switched from the Republican to the Federalist party. Using the act of switching parties and drawing on rich archival data on Williams’ personal correspondence as well as other historical documents, our analysis reveals three insights into the logic of political action. (1) Skilled actors are always working in multiple social networks simultaneously. In our case, where the Constitution had established a multilevel political structure, this involved the special case of multiple levels of government (local, state, federal). Because many elites held offices at multiple levels, repositioning oneself on one level affected the political networks on other levels. (2) Political action involved not only the making, but also the breaking of ties. It required elites to escape the “Sargasso Sea of social obligation and context” and to create room for action. Consequently, Williams’ switch coincided with a complete reorganization not only of his political but also his social networks. (3) By the end of the 1790s, partisanship had imposed itself as a new logic of action that both incorporated but also displaced older forms of deferential and clientelist politics. For Williams, who perhaps did not realize this shift, this meant defeat at the polls by his son-in-law, a relatively minor social and political figure.
-{{< /spoiler >}}
-
-<br/>
-
-**Patronage Politics in the Early American Republic: The Case of New York** . Manuscript in preparation.
-
-<br/>
 
 ***
 
@@ -92,7 +93,7 @@ Coming soon.
 ***
 
 ## POLITICAL DISCOURSE IN THE WEIMAR REPUBLIC
-Together with John Levi Martin (University of Chicago), Farah Aly (University of Mannheim), and the University of Mannheim Library I have just finished digitizing the protocols of the German *Reichstag* during the Weimarer Republic. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic.
+Together with John Levi Martin (University of Chicago), Farah Aly (University of Mannheim), and the University of Mannheim Library I have just finished digitizing the protocols of the German *Reichstag* during the Weimarer Republic. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic, focusing in particular on interactions among parlamentarians.
 
 <br/>
 

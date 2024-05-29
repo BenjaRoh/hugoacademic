@@ -8,7 +8,7 @@
 appearance:
   theme_day: mytheme # mytheme
   theme_night: mytheme # mytheme
-  font: minimal # minimal
+  font: Minimal # Minimal Classic Rose
   font_size: M
 
 # SEO
