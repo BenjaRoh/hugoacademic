@@ -32,12 +32,12 @@ A key component in the formation of the modern democratic state is the party sys
 <br/>
 
 
-**Patronage Politics in the Early American Republic: The Case of New York**. Manuscript in preparation.
+**Parties and Patronage in the Early American Republic: The Case of New York**. Manuscript in preparation.
 
 <br/>
 
 
-**Party Formation in Multiple Networks: New York in the Early Republic** (with Marissa Combs). Manuscript in preparation.
+**Escape from the Sargasso Sea: Elite Political Action in the Early American Republic** (with Marissa Combs). Manuscript in preparation.
 
 <br/>
 
@@ -59,7 +59,7 @@ In a collaborative project with William McAllister (Columbia University), I stud
 
 <br/>
 
-**Elite Cohesion in the American Administrative State, 1898-1998**. Manuscript under review.
+**Elite Cohesion in the American Administrative State, 1898-1998**. Revise & Resubmit at *Social Science History*.
 
 {{< spoiler text="Abstract" >}}
 Social scientists have long been interested in the degree of cohesion among elites in American society. Most work has focused on corporate elites and cohesion derived from shared board membership. Much less is known about the people who occupy the highest positions in the American administrative state and we have almost no knowledge of how cohesion within this group has changed over time. Drawing on a novel dataset of the career histories of 2,221 administrative elites who were appointed between 1898 and 1998, I measure elite cohesion by whether elites attended the same educational institutions at the same time and whether they worked in the same agencies of the Federal government at the same time prior to their elite appointment. I find strong evidence of increasing elite cohesion over time. Education-based cohesion increases especially during the three decades following WW2, while workplace-based cohesion increases during the first half of the 20th century and then remains steady after the Second World War. As elites are appointed to different organizations within the American state, these connections provide the potential for mutual understanding and coordination and thus help integrate the American government. These findings have implications for our understanding of the American administrative state.
@@ -67,7 +67,7 @@ Social scientists have long been interested in the degree of cohesion among elit
 
 <br/>
 
-**State-building and the Changing Structure of American Elite Recruitment, 1850-2000** (with William McAllister). Manuscript in preparation.
+**State Building and the Changing Structure of American Elite Recruitment, 1850-2000** (with William McAllister). Manuscript in preparation.
 
 {{< spoiler text="Abstract" >}}
 Coming soon. 
@@ -79,7 +79,7 @@ Coming soon.
 
 ## ORGANIZATIONAL STRATEGIES AND POLITICAL CAREERS IN CHINA
 
-**Vacancy Chains as Strategy: Inter-Administration Mobility of Political Elites in Reform China** (with Shilin Jia). Reject & Resubmit at *American Sociological Review*. Preprint available [here](https://dx.doi.org/10.2139/ssrn.4219188).
+**Vacancy Chains as Strategy: Intraorganizational Job Mobility of Political Elites in Reform China** (with Shilin Jia). Under review. Preprint available [here](https://dx.doi.org/10.2139/ssrn.4219188).
 
 *Honorable Mention, 2023 Reinhard Bendix Student Paper Award from the ASA Comparative-Historical Sociology Section*
 
